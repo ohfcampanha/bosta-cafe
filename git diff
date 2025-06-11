@@ -1,0 +1,20 @@
+[33mcommit 0d918ac8c73ad2e1835b0eb5861f6590e0d1d2e2[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m
+Merge: f586b12 9ed8441
+Author: ohfcampanha <ohfcampanha@gmail.com>
+Date:   Wed Jun 11 10:56:05 2025 -0300
+
+    Merge pull request #1 from ohfcampanha/nova-branch
+    
+    Alteração de Texto
+
+[33mcommit 9ed844185e14442853ee328e95a197d98456a49e[m[33m ([m[1;31morigin/nova-branch[m[33m, [m[1;32mnova-branch[m[33m)[m
+Author: Octavio Campanha <ohfcampanha@gmail.com>
+Date:   Wed Jun 11 10:49:55 2025 -0300
+
+    Alteração do texto
+
+[33mcommit f586b12d2e41006599761ac7b4a5efc027c8f67e[m[33m ([m[1;32maltracoes-junho[m[33m)[m
+Author: Octavio Campanha <ohfcampanha@gmail.com>
+Date:   Wed Jun 11 10:27:43 2025 -0300
+
+    Primeiro commit
